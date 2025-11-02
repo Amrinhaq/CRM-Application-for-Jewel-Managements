@@ -2,13 +2,13 @@
 Here you will find all the document files related to the "CRM Application for Jewel Management" Project.
 
 # Team Details
-Field	Information
-Team ID	        : NM2025TMID06045
-Team Size	      : 4
-Team Leader	    : Anuja R
-Team Member 1  	: Amrin Fathima Janofar A
-Team Member 2	  : Aneesha K
-Team Member 3	: Atchaya P
+ Field	Information
+  Team ID	        : NM2025TMID06045
+  Team Size	      : 4
+  Team Leader	    : Anuja R
+  Team Member 1  	: Amrin Fathima Janofar A
+  Team Member 2	  : Aneesha K
+  Team Member 3  	: Atchaya P
 
  # Salesforce Developer Instance Link :
    https://orgfarm-e5026d2d27-dev-ed.develop.my.salesforce.com/
