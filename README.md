@@ -14,7 +14,7 @@ Here you will find all the document files related to the "CRM Application for Je
   
   Team Member 2	  : Aneesha K
   
-  Team Member 3  	: Atchaya P
+  Team Member 3  	: Atchayah S
 
  # Salesforce Developer Instance Link :
    https://orgfarm-e5026d2d27-dev-ed.develop.my.salesforce.com/
